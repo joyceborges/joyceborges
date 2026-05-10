@@ -116,3 +116,7 @@ Python automation workflows, API integrations, web scraping pipelines, and scala
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce%20Liz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyceliz/)
 [![GitHub](https://img.shields.io/badge/GitHub-joyceborges-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyceborges)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B5E8,100:0A66C2&height=120&section=footer" />
+</p>
