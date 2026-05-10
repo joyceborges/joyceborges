@@ -28,7 +28,31 @@ I enjoy working across the full data lifecycle: data ingestion, transformation, 
 
 ## 🧩 Featured Project Areas
 
-In development
+### Data Engineering Pipelines
+Production-grade ETL/ELT workflows for ingesting, transforming, validating, and delivering data across cloud and analytical environments.
+
+**Tech stack:** Python, SQL, PySpark, Databricks, Snowflake, AWS, GCP
+
+---
+
+### Analytics Engineering
+dbt-based transformation layers, governed analytical models, automated tests, lineage, and documentation for reliable business reporting.
+
+**Tech stack:** dbt, SQL, Snowflake, BigQuery, Git, CI/CD
+
+---
+
+### Data Quality & Observability
+Projects focused on data freshness, schema monitoring, validation rules, dataset health, and failure notification workflows.
+
+**Tech stack:** Python, SQL, FastAPI, Domo, data quality frameworks
+
+---
+
+### Automation & Data Products
+Python automation workflows, API integrations, web scraping pipelines, and scalable data products used to reduce manual work and improve data availability.
+
+**Tech stack:** Python, REST APIs, Pandas, BeautifulSoup, Selenium, PostgreSQL
 
 ---
 
