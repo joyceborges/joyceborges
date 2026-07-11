@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:29B5E8&height=180&section=header&text=Joyce%20Liz&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# Hi, I'm Joyce 👋
+# Hi, I'm Joyce Liz 👋
 
 ### Data Engineer | Analytics Engineer | Python, SQL, PySpark, dbt & Cloud Data Platforms
 
